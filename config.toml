@@ -1,0 +1,47 @@
+baseURL = 'https://lucasalavapena.github.io/'
+languageCode = 'en-us'
+title = 'Lucas Alava Peña'
+theme = 'archie_fork'
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	katex = true # enable KaTeX support
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/Projects"
+weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/lucasalavapena"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/lucasalavapena/"
+
+[[params.social]]
+name = "Leetcode"
+icon = "leetcode"
+url = "https://leetcode.com/lucasalavapena/"

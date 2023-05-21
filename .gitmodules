@@ -1,0 +1,3 @@
+[submodule "themes/archie_fork"]
+	path = themes/archie_fork
+	url = git@github.com:lucasalavapena/archie.git
