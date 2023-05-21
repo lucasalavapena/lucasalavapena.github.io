@@ -6,7 +6,7 @@ aliases = ["about"]
 +++
 
 
-The idea behind this site is to [learn generously](https://www.recurse.com/self-directives). The focus will largely be on Computer Science (CS) related topics. However, expect anything.
+The idea behind this site is to [learn generously](https://www.recurse.com/self-directives#learn-generously). The focus will largely be on Computer Science (CS) related topics. However, expect anything.
 
 
 # About Me
