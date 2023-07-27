@@ -1,35 +1,20 @@
 baseURL = 'https://lucasalavapena.github.io/'
-languageCode = 'en-us'
 title = 'Lucas Alava Peña'
 theme = 'archie_fork'
+languageCode = 'en-us'
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableGitInfo = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+sectionPagesMenu = 'main'
+
+
 [params]
-	mode="auto"
+	mode="dark"
 	useCDN=false
 	katex = true # enable KaTeX support
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
-
-[[menu.main]]
-name = "Projects"
-url = "/Projects"
-weight = 4
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 5
-
 
 [[params.social]]
 name = "GitHub"
@@ -45,3 +30,5 @@ url = "https://www.linkedin.com/in/lucasalavapena/"
 name = "Leetcode"
 icon = "leetcode"
 url = "https://leetcode.com/lucasalavapena/"
+
+

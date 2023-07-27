@@ -1,0 +1,4 @@
+contentDir = 'content/german/'
+languageCode = 'de-DE'
+weight = 2
+languageName = '🇩🇪'

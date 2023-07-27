@@ -4,7 +4,7 @@ date: 2023-05-18T19:43:05+02:00
 tags: [Mathematics, fun]
 ---
 
-If the decision is binary then a simple coinflip will do. Otherwise, one would need to pull out a random number generator. I typically make these unimportant decisions quickly using my phone's clock and [modular arithmatic](https://en.wikipedia.org/wiki/Modular_arithmetic) (my favourite operator). The idea is to take the minute ($m$) on your phone clock as the input to $f(m, n) = m \mod n$, where $n$ is the number of unique choices you have.
+If the decision is binary then a simple coinflip will do. Otherwise, one would need to pull out a random number generator. I typically make these unimportant decisions quickly using my phone's clock and [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) (my favourite operator). The idea is to take the minute ($m$) on your phone clock as the input to $f(m, n) = m \mod n$, where $n$ is the number of unique choices you have.
 
 Let's pretend you are in Germany and were given 5 different pieces of cake that look equally amazing, but you only want to have one. You look at your phone and see it is `15:39`. Therefore:
 

@@ -3,6 +3,8 @@ title = "About"
 description = "About"
 date = "2023-05-21"
 aliases = ["about"]
+menu = 'main'
+weight = 100
 +++
 
 
@@ -11,8 +13,8 @@ The idea behind this site is to [learn generously](https://www.recurse.com/self-
 
 # About Me
 
-I had a diverse tri-lingual upbringing, growing up halfway across the world from my extended family, and have lived in 5-7 countries. 
-I have been programming (starting with Python) for over 10 years now, I even did some professional programming before university. I did a degree in Aerospace before coming back to CS at university. However, I had a formal discrete mathematics education before university. So my formal CS education is very non-linear :).
+I had a diverse tri-lingual upbringing, growing up halfway across the world from my extended family, and have lived in 6-7 countries. 
+I have been programming (starting with Python) for over 10 years now, I even did some simple professional programming before university. I did a degree in Aerospace Engineering before coming back to CS at university. However, I had a formal discrete mathematics education before university. So my formal CS education is very non-linear :).
 
 
 Currently, I am learning/getting better at:
@@ -31,6 +33,7 @@ Currently, I am learning/getting better at:
 * Cartography and History - with a particular focus on regions I have connections to. One of my favorite books is [From Third World to First: the Singapore Story, 1965-2000](https://www.worldcat.org/title/from-third-world-to-first-the-singapore-story-1965-2000/oclc/44468763). 
 
 
+# Hobbies
 
 
 

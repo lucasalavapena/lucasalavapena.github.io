@@ -1,4 +1,0 @@
-+++
-author = "Lucas Alava Peña"
-+++
-
