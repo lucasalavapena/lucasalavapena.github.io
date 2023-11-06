@@ -15,6 +15,7 @@ sectionPagesMenu = 'main'
 	mode="dark"
 	useCDN=false
 	katex = true # enable KaTeX support
+	onion="d7uiikaacted6bvtglizgrit5ve3sqmk2v7eo5oqofzms7nuaonwmhad"
 
 [[params.social]]
 name = "GitHub"
