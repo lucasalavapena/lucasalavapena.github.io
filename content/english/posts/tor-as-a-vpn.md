@@ -17,7 +17,7 @@ Rather than using traditional VPNs to access region-specific websites, one could
 - Middle node - knows nothing about the sender's original request
 - Exit node - does not know who you are but knows what website you are visiting, as this node would be the one sending the final requests to the server you wanted. This will be the most relevant node for this post
 
-For more information please see the original paper of [Tor](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) or their [support page](https://support.torproject.org/) which has some FAQ.
+For more information please see the original paper of [Tor](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) or their [support page](https://support.torproject.org/) which has some FAQ. This post can also be read from an [onion service](https://community.torproject.org/onion-services/overview/). If you simply put this article's address into the Tor Browser you should be redirected to it via the [onion location meta attribute](https://community.torproject.org/onion-services/advanced/onion-location/).
 
 
 
