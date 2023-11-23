@@ -33,8 +33,6 @@ Currently, I am learning/getting better at:
 * Cartography and History - with a particular focus on regions I have connections to. One of my favorite books is [From Third World to First: the Singapore Story, 1965-2000](https://www.worldcat.org/title/from-third-world-to-first-the-singapore-story-1965-2000/oclc/44468763). 
 
 
-# Hobbies
-
 
 
 
