@@ -17,11 +17,6 @@ I had a diverse tri-lingual upbringing, growing up halfway across the world from
 I have been programming (starting with Python) for over 10 years now, I even did some simple professional programming before university. I did a degree in Aerospace Engineering before coming back to CS at university. However, I had a formal discrete mathematics education before university. So my formal CS education is very non-linear :).
 
 
-Currently, I am learning/getting better at:
-
-* Cryptography
-* Rust
-
 # Hobbies
 
 * Doing Sports: Basketball, Association Football, Cycling - I am also into sports analytics and even wrote a small book (57 pages) on a statistical analysis of successful NBA Teams 
