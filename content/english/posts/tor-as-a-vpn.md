@@ -46,7 +46,7 @@ For a table displaying the same information, please see the [Appendix](#appendix
 
 # Specifying exit relays
 
-To use a specific subset of exit relays, one needs to exit their `torrc` file (the tor config file, typically located in `..TorBrowser/Data/Tor/torrc`). For example, if I only want to use US exit relays I would add the following into my `torrc` file. 
+To use a specific subset of exit relays, one needs to edit their `torrc` file (the tor config file, typically located in `..TorBrowser/Data/Tor/torrc`). For example, if I only want to use US exit relays I would add the following into my `torrc` file. 
 
 ```
 ExitNodes {us}
